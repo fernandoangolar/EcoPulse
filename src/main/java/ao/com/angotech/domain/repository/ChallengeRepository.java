@@ -1,6 +1,6 @@
-package ao.com.angotech.repositories;
+package ao.com.angotech.domain.repository;
 
-import ao.com.angotech.model.Challenge;
+import ao.com.angotech.domain.entity.Challenge;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

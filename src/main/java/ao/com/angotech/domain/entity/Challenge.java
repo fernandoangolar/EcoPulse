@@ -1,4 +1,4 @@
-package ao.com.angotech.model;
+package ao.com.angotech.domain.entity;
 
 import jakarta.persistence.*;
 import org.hibernate.annotations.CreationTimestamp;
